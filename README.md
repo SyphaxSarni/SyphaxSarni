@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ## I'm Sarni Syphax, currently in 4th year in Artificial Intelligence and Big Data at ESGI (FR).
-- 🔭 I’m currently working on python libraries skills (Pandas, scikit-learn, matplotlib..)
-- 🌱 I’m currently learning about Scala & Spark.
+- 🔭 I’m currently working on : 
+  - python libraries skills (Pandas, scikit-learn, matplotlib..)
+  - Scala & Spark.
 - 👯 I’m looking for a apprenticeship in IA & Data Science (September 2021).
 - 📫 How to reach me: <br/>
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
