@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Sarni Syphax, at the moment i'm pursuing a master in Artificial Intelligence & Big Data at the ESGI (Ecole Supérieure de Genie Informatique) FR.
+## I'm Sarni Syphax, currently i'm pursuing a master in Artificial Intelligence & Big Data at the ESGI (Ecole Supérieure de Genie Informatique) FR.
 - 🔭 I’m currently working on : 
   - Python libraries skills (pandas, scikit-learn, matplotlib..)
   - Scala & Spark.
