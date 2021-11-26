@@ -12,4 +12,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/syphax-sarni-597a71202/
-[instagram]: https://www.instagram.com/syphax_sa/?hl=fr
